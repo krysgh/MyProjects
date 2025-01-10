@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Netflix</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    
+
+</head>
+
+
+<body class="tela_login">
+
+    <div class="filtro">
+        <div class="container-fluid">
+            <header class="row">
+                <a href="index.html"><img src="imagens/netflix%20logo.png" /></a>
+            </header>
+
+
+            <div id="login">
+
+                <h1 id="entrarlbl">Entrar</h1>
+                <br />
+                
+                    <input type="email" class="input_font" id="email_telefone" placeholder="Email ou número de celular" required>
+                    <br />
+                    <input type="password" class="input_font" id="senha" placeholder="Senha" required>
+                    <br />
+                    <button class="botao" type="button" id="entrar" onclick="entrar(event)">Entrar</button>
+                
+                <p id="ou">OU</p>
+                <button class="botao" id="codigo" >Usar um código de acesso</button>
+                <p id="esq_senha"><a href="index.html" class="cor_branca">Esqueceu a senha?</a> </p>
+
+
+                <input type="checkbox"><label class="cor_branca">Lembre-se de mim</label>
+                <br />
+
+                <p class="cor_cinza">Novo por aqui?<a href="index.html" class="cor_branca" id="assine_agora">Assine agora.</a></p>
+                <p class="cor_cinza" id="diminuir_fonte">Esta página é protegida pelo Google reCAPTCHA para garantir que você não é um robô. <a href="index.html" id="saiba_mais">Saiba mais.</a></p>
+
+
+            </div>
+
+
+        </div>
+
+
+
+    </div>
+ 
+</body>
+
+
+</html>
