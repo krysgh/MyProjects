@@ -7,4 +7,4 @@ At this point, I'm still dealing with responsiveness issues, so it's likely that
 
 So I screenshot three pages of my Netflix Clone. They are included in the "screenshots" folder.
 
-I'm in the mood and maybe I'll create one or more pages and I'll interrelate them all through Javascript.
+I'm in the mood and maybe I'll create one or more pages and I'll interrelate them all through JavaScript.
