@@ -1,7 +1,7 @@
 # READPE
 
 
-This project is an .exe PE render.
+This project is an .exe PE reader.
 
 Some settings are required, like:
 
