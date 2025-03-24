@@ -9,7 +9,7 @@ I just finished an .exe reader using C.
 
 It'll become greater than it is now.
 
-# Meus projetos
+# MeusProjetos
 
 Este repositório contém todos os meus projetos pessoais!
 
