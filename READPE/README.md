@@ -9,6 +9,6 @@ Some settings are required, like:
 
 - Install libpeteste.so by "make install" on "lib".
 
-- readpe.exe is the main filé.
+- readpe.exe is the main file.
 
 
