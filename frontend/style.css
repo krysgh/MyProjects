@@ -1,0 +1,35 @@
+ @font-face {
+        font-family: Montserrat;
+        src: url(fonts/Montserrat/Montserrat-VariableFont_wght.ttf) ;
+    }
+
+body{
+    background: linear-gradient(to left,#050047,#090979, #0025B8);
+    
+}
+
+header{
+    height: 4.3em;
+    position: absolute;
+    width: 100%;
+    background: rgb(190, 190, 194);
+    padding-left: 1%;
+}
+
+nav{
+    background: linear-gradient(to left, #757575,#CCCCEB,#F0EBEB); 
+    height: 50em;
+    width: 15%;
+    
+
+}
+h1{
+    color: rgb(71, 88, 180);
+    font-weight: lighter;
+    font-family: Montserrat, sans-serif;
+    font-size:large ;
+    font-weight: 600;
+    
+}
+
+
