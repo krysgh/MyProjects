@@ -1,0 +1,40 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body{
+    background-image: url("images/kamuiDimension.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width : 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+
+
+img{
+    height: 300px;
+    width: 300px;
+
+}
+
+#kakashiParado{
+    width: 250px;
+    position:absolute;
+    left: 0px;
+    top:300px;
+    width: 250px;
+    z-index: 2;
+}
+
+#obitoParado{
+    width: 140px;
+    padding-left: 85%;
+    top: 300px;
+    position: absolute;
+    z-index: 1;
+}
